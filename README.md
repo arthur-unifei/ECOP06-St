@@ -1,2 +1,2 @@
-# ecop06-13
+# ECOP06-St
 Uso do Streamlit em ECOP06
